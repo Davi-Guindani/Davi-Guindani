@@ -4,8 +4,6 @@
 - Studying JavaScript (React and Node)
 - Dream of being a game developer
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <div>
   <a href = "https://github.com/Davi-Guindani">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Davi-Guindani&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
