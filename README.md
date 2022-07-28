@@ -1,4 +1,4 @@
-### Hey there, my name is Davi Guindani
+### Hey there, Davi Guindani and I am a Software Developer.
 
 - Today I work at Focus Consultoria as a Fullstack JavaScript Developer
 - Studying JavaScript (React and Node)
