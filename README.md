@@ -1,6 +1,6 @@
 ### Hey there, my name is Davi Guindani
 
-- Today I work at Focus Consultoria as a Fullstack Developer
+- Today I work at Focus Consultoria as a Fullstack JavaScript Developer
 - Studying JavaScript (React and Node)
 - Dream of being a game developer
 
