@@ -1,7 +1,7 @@
 ### Hey there, Davi Guindani and I am a Software Developer.
 
 - Today I work at Focus Consultoria as a Software Engineer Intern
-- Studying JavaScript (React and Node)
+- Studying Python/Data analysis
 - Dream of being a game developer
 
 <div>
