@@ -1,8 +1,8 @@
 ### Hey there, Davi Guindani and I am a Software Developer.
 
-- Today I work at Focus Consultoria as a Software Engineer Intern
-- Studying Python/Data analysis
-- Dream of being a game developer
+- Today I work at IFF Macaé as a IT Support Analyst Intern
+- Studying Python
+- Dream of being a Software Developer
 
 <div>
   <a href = "https://github.com/Davi-Guindani">
